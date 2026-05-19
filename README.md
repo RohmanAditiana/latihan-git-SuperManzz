@@ -25,3 +25,6 @@ Teknologi Informasi
 
 ## Universitas
 Al-Ghifari
+
+## Alasan Belajar Programming
+Yaitu karena saya masuk prodi ini (Sistem Informasi) jadinya saya belajar programming deh
