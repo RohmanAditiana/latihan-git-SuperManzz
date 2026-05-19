@@ -1,0 +1,27 @@
+# Biodata Diri Lengkap
+
+## Nama
+Rohman Aditiana
+
+## Tempat, Tanggal Lahir
+Bandung, 26 Maret 2026
+
+## Agama
+Islam
+
+## Alamat
+Purabaya No4
+
+## Hobi
+- Main Game
+- Nonton Youtube
+- Baca Buku
+
+## Program Studi
+Sistem Informasi
+
+## Fakultas
+Teknologi Informasi
+
+## Universitas
+Al-Ghifari
