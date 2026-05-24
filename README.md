@@ -33,3 +33,5 @@ Yaitu karena saya masuk prodi ini (Sistem Informasi) jadinya saya belajar progra
 - Git
 - GitHub
 - VS Code
+
+harapan : bisa kerja dengan gaji fantastis
